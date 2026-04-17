@@ -4,9 +4,9 @@
     "name": "Wawel",
     "description": "Zabytkowy zamek obronno-rezydencyjny w Krakowie, na wzgórzu Wawelskim.",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/1/10/Wawel_Castle_in_Krakow%2C_Poland.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/67/Krak%C3%B3w_Wawel_1.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/56/Wawel_zamek.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wawel_%284%29.jpg/250px-Wawel_%284%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wawel_Royal_Castle_Krakow_Poland_by_blaat.jpg/250px-Wawel_Royal_Castle_Krakow_Poland_by_blaat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wawel_Castle_01_AB.jpg/250px-Wawel_Castle_01_AB.jpg"
     ],
     "latitude": 50.0540,
     "longitude": 19.9353,
@@ -17,9 +17,9 @@
     "name": "Rynek Główny",
     "description": "Plac w Krakowie, w dzielnicy I Stare Miasto, na Starym Mieście. Wytyczony został w 1257 podczas lokacji Krakowa, na północ od Okołu i jego przedpola[1], jako główny rynek miasta. Zbiegało się do niego 11 głównych ulic, był centralnym punktem handlu miejskiego. Znajdował się na nim ratusz. Na wschód od niego wytyczono rynek pomocniczy, obecny Mały Rynek.",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/f/f3/Krakow_-_Rynek_Glowny.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/0/08/Krakow_Rynek.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloth_Hall_Krakow.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/250px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Main_Market_square%2C_east_side-view_from_N%2C_Old_Town%2C_Krakow%2C_Poland.jpg/250px-Main_Market_square%2C_east_side-view_from_N%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Church_of_Our_Lady_Assumed_into_Heaven%2C_view_from_SW%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/250px-Church_of_Our_Lady_Assumed_into_Heaven%2C_view_from_SW%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg"
     ],
     "latitude": 50.0617,
     "longitude": 19.9373,
@@ -30,9 +30,9 @@
     "name": "Kazimierz",
     "description": "Część Krakowa wchodząca obecnie (2024) w skład dzielnicy I. Od powstania w XIV wieku do przełomu XVIII i XIX wieku był samodzielnym miastem, położonym na południe od Krakowa, oddzielonym od niego nieistniejącą już odnogą Wisły (był miastem królewskim Korony Królestwa Polskiego)",
     "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kazimierz_Krakow.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Szeroka_street_Krakow.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/f/fc/Krakow_Kazimierz.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kazimierz_%28view_from_S%29%2C_Krakow%2C_Poland.jpg/250px-Kazimierz_%28view_from_S%29%2C_Krakow%2C_Poland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kazimierz_District_of_Cracow_in_1916.jpg/250px-Kazimierz_District_of_Cracow_in_1916.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kazimierz-WidokZMostuKotlarskiego%28OdWschodu%29-POL%2C_Krak%C3%B3w.jpg/250px-Kazimierz-WidokZMostuKotlarskiego%28OdWschodu%29-POL%2C_Krak%C3%B3w.jpg"
     ],
     "latitude": 50.0510,
     "longitude": 19.9440,
