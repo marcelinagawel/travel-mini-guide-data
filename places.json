@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "Wawel",
+    "description": "Zabytkowy zamek obronno-rezydencyjny w Krakowie, na wzgórzu Wawelskim.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Wawel_Castle_in_Krakow%2C_Poland.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/Krak%C3%B3w_Wawel_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Wawel_zamek.jpg"
+    ],
+    "latitude": 50.0540,
+    "longitude": 19.9353,
+    "isFavorite": false
+  },
+  {
+    "id": "2",
+    "name": "Rynek Główny",
+    "description": "Plac w Krakowie, w dzielnicy I Stare Miasto, na Starym Mieście. Wytyczony został w 1257 podczas lokacji Krakowa, na północ od Okołu i jego przedpola[1], jako główny rynek miasta. Zbiegało się do niego 11 głównych ulic, był centralnym punktem handlu miejskiego. Znajdował się na nim ratusz. Na wschód od niego wytyczono rynek pomocniczy, obecny Mały Rynek.",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/Krakow_-_Rynek_Glowny.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Krakow_Rynek.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloth_Hall_Krakow.jpg"
+    ],
+    "latitude": 50.0617,
+    "longitude": 19.9373,
+    "isFavorite": false
+  },
+  {
+    "id": "3",
+    "name": "Kazimierz",
+    "description": "Część Krakowa wchodząca obecnie (2024) w skład dzielnicy I. Od powstania w XIV wieku do przełomu XVIII i XIX wieku był samodzielnym miastem, położonym na południe od Krakowa, oddzielonym od niego nieistniejącą już odnogą Wisły (był miastem królewskim Korony Królestwa Polskiego)",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kazimierz_Krakow.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Szeroka_street_Krakow.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/Krakow_Kazimierz.jpg"
+    ],
+    "latitude": 50.0510,
+    "longitude": 19.9440,
+    "isFavorite": false
+  }
+]
